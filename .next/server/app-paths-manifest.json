@@ -1,0 +1,9 @@
+{
+  "/not-found": "app/not-found.js",
+  "/unauthorized-page/page": "app/unauthorized-page/page.js",
+  "/login/page": "app/login/page.js",
+  "/register/page": "app/register/page.js",
+  "/admin-view/add-product/page": "app/admin-view/add-product/page.js",
+  "/api/admin/add-product/route": "app/api/admin/add-product/route.js",
+  "/admin-view/all-products/page": "app/admin-view/all-products/page.js"
+}
